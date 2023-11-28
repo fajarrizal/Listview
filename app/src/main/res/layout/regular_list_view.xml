@@ -1,0 +1,34 @@
+<!-- fragment_detail.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingTop="6dp"
+    android:paddingBottom="8dp"
+    android:paddingRight="16dp"
+    android:paddingLeft="16dp">
+
+            <TextView
+                android:id="@+id/detailTitleRegularTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/latoweb_bold"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/dark"
+                android:text="ini title"/>
+
+            <TextView
+                android:id="@+id/detailDescriptionRegularTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/latoweb_regular"
+                android:layout_marginTop="2dp"
+                android:lineSpacingExtra="4dp"
+                android:textSize="15sp"
+                android:textColor="@color/dark"
+                android:text="ini bodynya"/>
+
+
+</LinearLayout>

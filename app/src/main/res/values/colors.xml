@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="primary">#7A9D91</color>
+    <color name="disable">#818896</color>
+    <color name="placeholder_1">#BCC1CA</color>
+    <color name="placeholder_2">#DDE0E4</color>
+    <color name="canvas_grey">#F8F8F8</color>
+    <color name="canvas_white">#FFFFFF</color>
+    <color name="dark">#1D2534</color>
+    <color name="star_yellow">#E8AE1B</color>
+    <color name="danger">#D73942</color>
+
+
+</resources>

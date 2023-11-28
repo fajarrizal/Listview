@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    Weight Font-->
+<!--    400 Regular-->
+<!--    500 Medium-->
+<!--    600 Semi-bold-->
+<!--    700 Bold-->
+
+    <font
+        android:font="@font/latoweb_regular"
+        android:fontStyle="normal"
+        android:fontWeight="400"/>
+    <font
+        android:font="@font/latoweb_semibold"
+        android:fontStyle="normal"
+        android:fontWeight="600"/>
+    <font
+        android:font="@font/latoweb_bold"
+        android:fontStyle="normal"
+        android:fontWeight="700"/>
+
+</font-family>
